@@ -23,7 +23,7 @@ To run the Health Tracker application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   $ git clone https://github.com/basavaadarsh/health-tracker.git
+   $ git clone https://github.com/basavaadarsh/Health-Tracker.git
    ```
 2. Navigate to the project directory:
 
