@@ -8,6 +8,7 @@ Health Tracker is a web application designed to help users monitor their daily i
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Results](#results)
 - [License](#license)
 
 ## Features
@@ -87,6 +88,26 @@ Contributions are welcome! If you want to contribute to Health Tracker, please f
 5. Push to the branch (git push origin feature/improvement).
 
 6. Create a new Pull Request.
+
+
+## Results
+
+1. Home Page :
+
+   ![image](https://github.com/basavaadarsh/Health-Tracker/assets/125342337/277ab46e-ee0b-457a-8538-63e07c7f3ffc)
+
+2. Signup page :   
+
+    ![image](https://github.com/basavaadarsh/Health-Tracker/assets/125342337/bafa6150-e9d7-4adc-8bde-29b47a2fbf76)
+
+3. Login Page :
+
+    ![image](https://github.com/basavaadarsh/Health-Tracker/assets/125342337/816d5930-ecb0-4a2a-96b4-ec4926b7e428)
+
+4. Health Tracker Web Application :
+
+    ![image](https://github.com/basavaadarsh/Health-Tracker/assets/125342337/386f3de6-257a-4af3-92c0-a49150025909)
+
 
 ## License
 
